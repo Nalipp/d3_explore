@@ -35,9 +35,18 @@ var ratings = {
   "R" : "crimson"
 }
 
+// var rand = Math.floor(Math.random() * 10);
+
 d3.select('.container')
     .selectAll('span')
-  .data
+  .data(movies)
+  .enter()
+  .append('span')
+    .classed('rating', true)
+    .text((d) => d.rating)
+    .style('top', function(d, i) {
+       return (i + 1) * 80;
+    });
 
 // d3.select('#quotes')
 //     .style('list-style', 'none')
