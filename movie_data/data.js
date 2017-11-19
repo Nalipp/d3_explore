@@ -1,4 +1,4 @@
-arr = [
+countryTemp = [
   {
     name : "GREECE",
     monthAvg : {
@@ -54,7 +54,7 @@ arr = [
   },
   {
     name : "SPAIN",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 49,
         "high" : 56.9,
@@ -107,7 +107,7 @@ arr = [
   },
   {
     name : "PORTUGAL",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 51.8,
         "high" : 58.3,
@@ -160,7 +160,7 @@ arr = [
   },
   {
     name : "NEW ZELAND",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 62.5,	
         "high" : 71.6,	
@@ -213,7 +213,7 @@ arr = [
   },
   {
     name : "CYPRUS",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 52.8,	
         "high" : 60.8,	
@@ -266,7 +266,7 @@ arr = [
   },
   {
     name : "AUSTRALIA",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 73.4,	
         "high" : 85,	
@@ -319,7 +319,7 @@ arr = [
   },
   {
     name : "THE BAHAMAS",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 70.8,	
         "high" : 76.9,	
@@ -372,7 +372,7 @@ arr = [
   },
   {
     name : "BRAZIL",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 78.1,	
         "high" : 89.4,	
@@ -425,7 +425,7 @@ arr = [
   },
   {
     name : "MALTA",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 54.4,	
         "high" : 59,	
@@ -478,7 +478,7 @@ arr = [
   },
   {
     name : "FRANCE",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 39.4,	
         "high" : 45.5,	
@@ -531,7 +531,7 @@ arr = [
   },
   {
     name : "ARGENTINA",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 74.9,	
         "high" : 85.4,	
@@ -584,7 +584,7 @@ arr = [
   },
   {
     name : "COSTA RICA",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 75.4,	
         "high" : 84.1,	
@@ -637,7 +637,7 @@ arr = [
   },
   {
     name : "CROATIA",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 39,	
         "high" : 44.2,	
@@ -690,7 +690,7 @@ arr = [
   },
   {
     name : "SOUTH",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 71.3,	
         "high" : 81.5,	
@@ -743,7 +743,7 @@ arr = [
   },
   {
     name : "URUGUAY",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 73.6,	
         "high" : 85,	
@@ -796,7 +796,7 @@ arr = [
   },
   {
     name : "JAPAN",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 39.1,	
         "high" : 45.6,	
@@ -848,8 +848,8 @@ arr = [
     },
   },
   {
-    name : "UNITED STATES OF AMERICA",
-    monthlyAvg : {
+    name : "UNITED STATES",
+    monthAvg : {
       "JAN" : {
         "avg" : 31.9,	
         "high" : 42.3,	
@@ -887,8 +887,8 @@ arr = [
         "high" : 77.6,	
       },
       "OCT" : {
-        "avg" : 54.8,	
-        "high" : 66.9,	
+        "avg" : 54.8,
+        "high" : 66.9,
       },
       "NOV" : {
         "avg" : 43.5,	
@@ -902,7 +902,7 @@ arr = [
   },
   {
     name : "ICELAND",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 29.2,	
         "high" : 33.2,	
@@ -955,7 +955,7 @@ arr = [
   },
   {
     name : "SWITZERLAND",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 27.2,	
         "high" : 33.7,	
@@ -1008,7 +1008,7 @@ arr = [
   },
   {
     name : "FIJI",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 79.5,	
         "high" : 86.4,	
@@ -1061,7 +1061,7 @@ arr = [
   },
   {
     name : "CHILE",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 62,	
         "high" : 73,	
@@ -1114,7 +1114,7 @@ arr = [
   },
   {
     name : "TURKEY",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 36.1,	
         "high" : 42.7,	
@@ -1167,7 +1167,7 @@ arr = [
   },
   {
     name : "JAMAICA",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 75.5,	
         "high" : 82.9,	
@@ -1220,7 +1220,7 @@ arr = [
   },
   {
     name : "KENYA",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 70.4,	
         "high" : 83,	
@@ -1273,7 +1273,7 @@ arr = [
   },
   {
     name : "DOMINICAN REPUBLIC",
-    monthlyAvg : {
+    monthAvg : {
       "JAN" : {
         "avg" : 73.5,	
         "high" : 81.8,	
@@ -1326,57 +1326,52 @@ arr = [
   },
 ]
 
-
-
-
-
-
-Greece
-Spain
-Italy
-Portugal
-New Zealand
-Cyprus
-Australia
-Bahamas
-Brazil
-Malta
-France
-Argentina
-Costa Rica
-Croatia
-South Africa
-Uruguay
-Japan
-Kingdom of Italy
-United States of America
-Iceland
-Switzerland
-Fiji
-Chile
-Turkey
-Jamaica
-Kenya
-Dominican Republic
-Canada
-Scotland
-Mexico
-French Polynesia
-England
-United Kingdom
-Estonia
-Sweden
-Ecuador
-Germany
-Netherlands
-Finland
-Russia
-Lithuania
-Puerto Rico
-Tanzania
-Austria
-Denmark
-Botswana
-Vietnam
-Philippines
-Bulgaria
+// Greece
+// Spain
+// Italy
+// Portugal
+// New Zealand
+// Cyprus
+// Australia
+// Bahamas
+// Brazil
+// Malta
+// France
+// Argentina
+// Costa Rica
+// Croatia
+// South Africa
+// Uruguay
+// Japan
+// Kingdom of Italy
+// United States of America
+// Iceland
+// Switzerland
+// Fiji
+// Chile
+// Turkey
+// Jamaica
+// Kenya
+// Dominican Republic
+// Canada
+// Scotland
+// Mexico
+// French Polynesia
+// England
+// United Kingdom
+// Estonia
+// Sweden
+// Ecuador
+// Germany
+// Netherlands
+// Finland
+// Russia
+// Lithuania
+// Puerto Rico
+// Tanzania
+// Austria
+// Denmark
+// Botswana
+// Vietnam
+// Philippines
+// Bulgaria
