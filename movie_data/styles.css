@@ -21,3 +21,25 @@ body {
   height: 20px;
   background: lawngreen;
 }
+
+.monthBtn {
+  display: inline-block;
+  font-size: 10px;
+  border: 2px solid #eee;
+  border-radius: 8px;
+  padding: 4px;
+  width: 60px;
+  cursor: pointer;
+  background: #fff;
+  color: #777;
+}
+
+.monthBtn:focus {
+  outline: 0;
+}
+
+
+
+
+
+
