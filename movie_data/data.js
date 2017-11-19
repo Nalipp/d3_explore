@@ -2,51 +2,51 @@ countryTemp = [
   {
     name : "GREECE",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 47.9,
         "high" : 54.4,
       },
-      "FEB" : {
+      "February" : {
         "avg" : 48.8,
         "high" : 55.5,
       },
-      "MAR" : {
+      "March" : {
         "avg" : 52.4,	
         "high" : 59.5,
       },
-      "APR" : {
+      "April" : {
         "avg" : 58.5,	
         "high" : 66,
       },
-      "MAY" : {
+      "May" : {
         "avg" : 66.6,
         "high" : 74.5,
       },
-      "JUN" : {
+      "June" : {
         "avg" : 74.6,
         "high" : 82.7,
       },
-      "JUL" : {
+      "July" : {
         "avg" : 78.8,
         "high" : 86.9,
       },
-      "AUG" : {
+      "August" : {
         "avg" : 78.4,
         "high" : 86.8,
       },
-      "SEP" : {
+      "September" : {
         "avg" : 72.6,
         "high" : 81.1,
       },
-      "OCT" : {
+      "October" : {
         "avg" : 64.5,
         "high" : 72.4,
       },
-      "NOV" : {
+      "November" : {
         "avg" : 56.7,
         "high" : 63.8,
       },
-      "DEC" : {
+      "December" : {
         "avg" : 50.8,
         "high" : 57.1,
       },
@@ -55,51 +55,51 @@ countryTemp = [
   {
     name : "SPAIN",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 49,
         "high" : 56.9,
       },
-      "FEB" : {
+      "February" : {
         "avg" : 50.6,
         "high" : 59.3,
       },
-      "MAR" : {
+      "March" : {
         "avg" : 53.6,
         "high" : 63.1,
       },
-      "APR" : {
+      "April" : {
         "avg" : 56.2,
         "high" : 65.5,
       },
-      "MAY" : {
+      "May" : {
         "avg" : 61.4,
         "high" : 70.8,
       },
-      "JUN" : {
+      "June" : {
         "avg" : 67.7,
         "high" : 77.5,
       },
-      "JUL" : {
+      "July" : {
         "avg" : 72.7,
         "high" : 83.1,
       },
-      "AUG" : {
+      "August" : {
         "avg" : 73.3,
         "high" : 83.6,
       },
-      "SEP" : {
+      "September" : {
         "avg" : 69.2,
         "high" : 79,
       },
-      "OCT" : {
+      "October" : {
         "avg" : 62.2,
         "high" : 71.2,
       },
-      "NOV" : {
+      "November" : {
         "avg" : 55.2,
         "high" : 63.4,
       },
-      "DEC" : {
+      "December" : {
         "avg" : 50.7,
         "high" : 58.5,
       },
@@ -108,51 +108,51 @@ countryTemp = [
   {
     name : "PORTUGAL",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 51.8,
         "high" : 58.3,
       },
-      "FEB" : {
+      "February" : {
         "avg" : 52.8,
         "high" : 59.6,
       },
-      "MAR" : {
+      "March" : {
         "avg" : 55.1,
         "high" : 62.3,
       },
-      "APR" : {
+      "April" : {
         "avg" : 57.2,
         "high" : 64.5,
       },
-      "MAY" : {
+      "May" : {
         "avg" : 60.8,
         "high" : 68.7,
       },
-      "JUN" : {
+      "June" : {
         "avg" : 66.3,
         "high" : 74.5,
       },
-      "JUL" : {
+      "July" : {
         "avg" : 70.3,
         "high" : 79.4,
       },
-      "AUG" : {
+      "August" : {
         "avg" : 71.2, 
         "high" : 80.2, 
       },
-      "SEP" : {
+      "September" : {
         "avg" : 68.7,
         "high" : 77.1,
       },
-      "OCT" : {
+      "October" : {
         "avg" : 63.2,
         "high" : 70.4,
       },
-      "NOV" : {
+      "November" : {
         "avg" : 57.2,
         "high" : 63.8,
       },
-      "DEC" : {
+      "December" : {
         "avg" : 53.4,
         "high" : 59.9,
       },
@@ -161,51 +161,51 @@ countryTemp = [
   {
     name : "NEW ZELAND",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 62.5,	
         "high" : 71.6,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 62.6,	
         "high" : 71.8,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 59.8,	
         "high" : 68.7,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 55.1,	
         "high" : 63.7,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 50.4,	
         "high" : 58.3,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 46.3,	
         "high" : 53.8,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 45,	
         "high" : 52.6,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 46.8,	
         "high" : 54.7,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 50,	
         "high" : 58.2,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 53.1,	
         "high" : 61.5,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 56.3,	
         "high" : 64.9,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 59.9,
         "high" : 68.5,
       },
@@ -214,51 +214,51 @@ countryTemp = [
   {
     name : "CYPRUS",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 52.8,	
         "high" : 60.8,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 53.3,	
         "high" : 61.6,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 56.1,	
         "high" : 64.8,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 62.4,	
         "high" : 71.5,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 68.4,	
         "high" : 77.8,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 75.3,	
         "high" : 84.3,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 80,	
         "high" : 88.8,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 80.2,	
         "high" : 89.2,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 76.6,	
         "high" : 85.8,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 70.7,	
         "high" : 80,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 62.8,	
         "high" : 71.8,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 56.1,
         "high" : 63.9,
       },
@@ -267,51 +267,51 @@ countryTemp = [
   {
     name : "AUSTRALIA",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 73.4,	
         "high" : 85,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 73.1,	
         "high" : 84.2,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 70,	
         "high" : 80.9,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 64.4,	
         "high" : 75,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 58.5,	
         "high" : 68.4,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 53.8,	
         "high" : 63.3,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 52.4,	
         "high" : 62.3,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 54.4,	
         "high" : 64.9,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 58.6,	
         "high" : 69.8,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 63.4,	
         "high" : 74.9,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 67.8,	
         "high" : 79.5,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 71.4,
         "high" : 83.2,
       },
@@ -320,51 +320,51 @@ countryTemp = [
   {
     name : "THE BAHAMAS",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 70.8,	
         "high" : 76.9,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 71.1,	
         "high" : 77.4,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 73.1,	
         "high" : 79.5,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 75,	
         "high" : 81.7,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 77.9,	
         "high" : 84.1,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 81,	
         "high" : 86.8,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 82.3,	
         "high" : 88.5,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 82.5,	
         "high" : 89.2,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 81.6,	
         "high" : 87.9,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 79.2,	
         "high" : 85.3,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 75.9,	
         "high" : 82,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 72.9,
         "high" : 78.7,
       },
@@ -373,51 +373,51 @@ countryTemp = [
   {
     name : "BRAZIL",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 78.1,	
         "high" : 89.4,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 77.9,	
         "high" : 88.9,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 77.3,	
         "high" : 87.9,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 76.3,	
         "high" : 86.7,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 74.6,	
         "high" : 85.1,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 73,	
         "high" : 84,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 72.4,	
         "high" : 83.8,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 73.5,	
         "high" : 85.9,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 75.8,	
         "high" : 88.1,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 77.7,	
         "high" : 90,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 78,
         "high" : 90.1,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 78.1,
         "high" : 89.8,
       },
@@ -426,51 +426,51 @@ countryTemp = [
   {
     name : "MALTA",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 54.4,	
         "high" : 59,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 54.8,	
         "high" : 60.8,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 56.3,	
         "high" : 62.8,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 60.3,	
         "high" : 65.9,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 65.8,	
         "high" : 72.9,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 72.8,	
         "high" : 81.8,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 78.8,	
         "high" : 87.8,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 80.2,	
         "high" : 87.8,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 75.1,	
         "high" : 82,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 69.9,	
         "high" : 76.1,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 62.8,	
         "high" : 67.9,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 57,
         "high" : 62.8,
       },
@@ -479,51 +479,51 @@ countryTemp = [
   {
     name : "FRANCE",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 39.4,	
         "high" : 45.5,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 40.6,	
         "high" : 47.6,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 45.6,	
         "high" : 54,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 50.2,	
         "high" : 59.1,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 56.8,	
         "high" : 66,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 62.7,	
         "high" : 72.1,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 66.8,	
         "high" : 76.6,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 66.5,	
         "high" : 76.4,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 61.5,	
         "high" : 70.8,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 54,	
         "high" : 62,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 45.7,	
         "high" : 52.2,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 40.7,
         "high" : 46.5,
       },
@@ -532,51 +532,51 @@ countryTemp = [
   {
     name : "ARGENTINA",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 74.9,	
         "high" : 85.4,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 73.3,	
         "high" : 83.5,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 69.4,	
         "high" : 79,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 63.1,	
         "high" : 72.5,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 57.3,	
         "high" : 66,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 51.6,	
         "high" : 60.1,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 51.4,	
         "high" : 60.3,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 54.2,	
         "high" : 64.3,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 58.3,	
         "high" : 68.6,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 64.1,	
         "high" : 74.4,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 69,	
         "high" : 79.5,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 73.1,
         "high" : 83.6,
       },
@@ -585,51 +585,51 @@ countryTemp = [
   {
     name : "COSTA RICA",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 75.4,	
         "high" : 84.1,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 76.3,	
         "high" : 85.7,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 77.6,	
         "high" : 87.3,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 78.3,	
         "high" : 87.7,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 78,	
         "high" : 86.3,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 77.2,	
         "high" : 84.8,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 76.7,	
         "high" : 84.2,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 76.6,	
         "high" : 84.5,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 76.6,	
         "high" : 84.5,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 76.1,	
         "high" : 83.6,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 75.6,	
         "high" : 82.9,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 75.3,
         "high" : 83.3,
       },
@@ -638,51 +638,51 @@ countryTemp = [
   {
     name : "CROATIA",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 39,	
         "high" : 44.2,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 40.5,	
         "high" : 46.9,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 46.7,	
         "high" : 53.9,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 53.1,	
         "high" : 60.3,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 61.4,	
         "high" : 68.9,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 68,	
         "high" : 75.9,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 72.5,	
         "high" : 81.2,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 71.7,	
         "high" : 80.4,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 65.3,	
         "high" : 73.6,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 57.1,	
         "high" : 64.2,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 46.8,	
         "high" : 52.2,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 40.2,
         "high" : 46.6,
       },
@@ -691,51 +691,51 @@ countryTemp = [
   {
     name : "SOUTH",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 71.3,	
         "high" : 81.5,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 70.6,	
         "high" : 80.6,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 68.3,	
         "high" : 78.4,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 63.1,	
         "high" : 74,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 57.5,	
         "high" : 69.6,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 52.4,	
         "high" : 65.3,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 52.3,	
         "high" : 65.3,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 55.6,	
         "high" : 68.3,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 60.6,	
         "high" : 72.3,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 64,	
         "high" : 74.9,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 67.1,	
         "high" : 77.4,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 69.8,
         "high" : 80,
       },
@@ -744,51 +744,51 @@ countryTemp = [
   {
     name : "URUGUAY",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 73.6,	
         "high" : 85,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 72.8,	
         "high" : 83.6,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 69.3,	
         "high" : 79.4,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 63,	
         "high" : 72.8,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 57.6,	
         "high" : 66.7,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 52.5,	
         "high" : 61.2,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 51.8,	
         "high" : 60.5,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 53.5,	
         "high" : 62.6,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 56.6,	
         "high" : 66.1,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 60.7,	
         "high" : 71.3,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 66,	
         "high" : 76.7,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 70.7,
         "high" : 81.9,
       },
@@ -797,51 +797,51 @@ countryTemp = [
   {
     name : "JAPAN",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 39.1,	
         "high" : 45.6,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 39.7,	
         "high" : 46.3,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 44.8,	
         "high" : 51.9,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 54.2,	
         "high" : 61.8,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 61.8,	
         "high" : 69.3,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 68.3,	
         "high" : 74.7,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 75.2,	
         "high" : 81.2,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 77.3,	
         "high" : 83.8,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 71.3,	
         "high" : 77.8,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 61.6,	
         "high" : 68.8,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 52.3,	
         "high" : 59.5,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 43.7,
         "high" : 50.4,
       },
@@ -850,51 +850,51 @@ countryTemp = [
   {
     name : "UNITED STATES",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 31.9,	
         "high" : 42.3,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 35.3,	
         "high" : 46.4,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 42.4,	
         "high" : 54.1,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 52,	
         "high" : 64.5,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 60.8,	
         "high" : 73.4,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 68.7,	
         "high" : 81.3,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 73.3,	
         "high" : 85.9,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 72.1,	
         "high" : 84.5,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 65.2,	
         "high" : 77.6,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 54.8,
         "high" : 66.9,
       },
-      "NOV" : {
+      "November" : {
         "avg" : 43.5,	
         "high" : 54,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 34.5,
         "high" : 44.9,
       },
@@ -903,51 +903,51 @@ countryTemp = [
   {
     name : "ICELAND",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 29.2,	
         "high" : 33.2,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 30.6,	
         "high" : 34.8,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 31.4,	
         "high" : 36.2,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 35.3,	
         "high" : 40.1,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 41.4,	
         "high" : 46.8,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 47,	
         "high" : 52.3,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 50.2,	
         "high" : 55.6,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 49.5,	
         "high" : 54.5,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 44.7,	
         "high" : 49.4,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 38,	
         "high" : 42.1,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 33.8,	
         "high" : 37.7,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 31.1,
         "high" : 34.9,
       },
@@ -956,51 +956,51 @@ countryTemp = [
   {
     name : "SWITZERLAND",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 27.2,	
         "high" : 33.7,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 29,	
         "high" : 36.3,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 34.2,	
         "high" : 42.3,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 40.5,	
         "high" : 49,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 48.3,	
         "high" : 57.3,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 54.2,	
         "high" : 63.6,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 58.5,	
         "high" : 68.4,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 57.3,	
         "high" : 67.1,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 52.2,	
         "high" : 61.5,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 44.6,	
         "high" : 53.1,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 34.8,	
         "high" : 41.8,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 29,
         "high" : 35.3,
       },
@@ -1009,51 +1009,51 @@ countryTemp = [
   {
     name : "FIJI",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 79.5,	
         "high" : 86.4,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 79.6,	
         "high" : 86.3,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 79.3,	
         "high" : 86,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 78.4,	
         "high" : 84.9,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 76.9,	
         "high" : 83.3,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 75.4,	
         "high" : 81.6,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 74.1,	
         "high" : 80.8,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 74.3,	
         "high" : 81.1,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 75,	
         "high" : 81.8,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 76.2,	
         "high" : 82.8,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 77.6,	
         "high" : 84.1,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 78.8,
         "high" : 85.4,
       },
@@ -1062,51 +1062,51 @@ countryTemp = [
   {
     name : "CHILE",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 62,	
         "high" : 73,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 61.7,	
         "high" : 73,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 58.9,	
         "high" : 69.6,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 55,	
         "high" : 64.4,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 51.3,	
         "high" : 59.2,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 48.2,	
         "high" : 55.5,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 47.2,	
         "high" : 54.8,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 48.2,	
         "high" : 56.4,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 50.4,	
         "high" : 59.5,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 53.3,	
         "high" : 63.1,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 56.5,	
         "high" : 66.9,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 59.6,
         "high" : 70.5,
       },
@@ -1115,51 +1115,51 @@ countryTemp = [
   {
     name : "TURKEY",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 36.1,	
         "high" : 42.7,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 38.1,	
         "high" : 45.4,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 43.7,	
         "high" : 52.3,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 52.5,	
         "high" : 62.1,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 60.4,	
         "high" : 70.8,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 67.8,	
         "high" : 79.2,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 73.3,	
         "high" : 85.2,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 73,	
         "high" : 85.1,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 67,	
         "high" : 79.3,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 57.7,	
         "high" : 68.4,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 47.7,	
         "high" : 56.6,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 39.9,
         "high" : 46.6,
       },
@@ -1168,51 +1168,51 @@ countryTemp = [
   {
     name : "JAMAICA",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 75.5,	
         "high" : 82.9,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 75.5,	
         "high" : 83,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 76.7,	
         "high" : 83.4,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 77.5,	
         "high" : 84.4,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 78.6,	
         "high" : 83.3,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 80.1,	
         "high" : 86.4,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 80.6,	
         "high" : 87.4,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 80.8,	
         "high" : 87.9,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 80.3,	
         "high" : 86.9,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 79.3,	
         "high" : 86,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 77.9,	
         "high" : 84.4,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 76.6,
         "high" : 83.6,
       },
@@ -1221,51 +1221,51 @@ countryTemp = [
   {
     name : "KENYA",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 70.4,	
         "high" : 83,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 71.5,	
         "high" : 84.5,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 72,	
         "high" : 84.4,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 71.2,	
         "high" : 81.8,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 69.6,	
         "high" : 79.8,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 67.8,	
         "high" : 78.2,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 66.8,	
         "high" : 77,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 67.2,	
         "high" : 77.8,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 68.5,	
         "high" : 80.4,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 70.2,	
         "high" : 81.9,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 69.9,	
         "high" : 80.9,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 69.8,
         "high" : 81.4,
       },
@@ -1274,51 +1274,51 @@ countryTemp = [
   {
     name : "DOMINICAN REPUBLIC",
     monthAvg : {
-      "JAN" : {
+      "January" : {
         "avg" : 73.5,	
         "high" : 81.8,	
       },
-      "FEB" : {
+      "February" : {
         "avg" : 74.2,	
         "high" : 82.1,	
       },
-      "MAR" : {
+      "March" : {
         "avg" : 75.5,	
         "high" : 83,	
       },
-      "APR" : {
+      "April" : {
         "avg" : 76.7,	
         "high" : 83.8,	
       },
-      "MAY" : {
+      "May" : {
         "avg" : 77.8,	
         "high" : 85.1,	
       },
-      "JUN" : {
+      "June" : {
         "avg" : 79.2,	
         "high" : 86.7,	
       },
-      "JUL" : {
+      "July" : {
         "avg" : 79.7,	
         "high" : 86.9,	
       },
-      "AUG" : {
+      "August" : {
         "avg" : 80,	
         "high" : 87.1,	
       },
-      "SEP" : {
+      "September" : {
         "avg" : 79.8,	
         "high" : 87.1,	
       },
-      "OCT" : {
+      "October" : {
         "avg" : 78.7,	
         "high" : 86.4,	
       },
-      "NOV" : {
+      "November" : {
         "avg" : 76.6,	
         "high" : 84.3,	
       },
-      "DEC" : {
+      "December" : {
         "avg" : 74.6,
         "high" : 82.4,
       },
