@@ -1,8 +1,7 @@
 d3.selectAll('.monthBtn')
   .on('click', function() {
     d3.event.preventDefault();
-    var val = d3.select(d3.event.target);
-    let month = val.text();
+    var month = d3.select(d3.event.target).text()
     updateMonth(month);
   });
 
@@ -12,6 +11,12 @@ d3.select('#container')
   .enter()
   .append('span')
     .classed('rating', true)
+
+d3.selectAll('.rating')
+  .on('mouseover', () => {
+    d3.select(d3.event.target)
+    console.log('ihi'); 
+  });
 
 function updateMonth(month='January') {
   d3.select('#container h3')
