@@ -6,10 +6,10 @@ d3.selectAll('.monthBtn')
   });
 
 d3.select('#container')
-    .selectAll('span')
+    .selectAll('p')
   .data(countryTemp)
   .enter()
-  .append('span')
+  .append('p')
     .classed('rating', true)
 
 d3.selectAll('.rating')
@@ -22,7 +22,7 @@ function updateMonth(month='January') {
   d3.select('#container h3')
     .text(month);
 
-  d3.selectAll('span')
+  d3.selectAll('p')
     .text((d) => d.name + '\n' + d.monthAvg[month].high)
     .style('left', (d, i) => (i + 1) * 25)
     .style('top', (d) => ((d.monthAvg[month].high) * 8) - 240)
@@ -35,3 +35,4 @@ function updateMonth(month='January') {
 }
 
 updateMonth();
+

@@ -1,6 +1,7 @@
 countryTemp = [
   {
     name : "GREECE",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 47.9,
@@ -54,6 +55,7 @@ countryTemp = [
   },
   {
     name : "SPAIN",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 49,
@@ -107,6 +109,7 @@ countryTemp = [
   },
   {
     name : "PORTUGAL",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 51.8,
@@ -160,6 +163,7 @@ countryTemp = [
   },
   {
     name : "NEW ZELAND",
+    region : "asia",
     monthAvg : {
       "January" : {
         "avg" : 62.5,	
@@ -213,6 +217,7 @@ countryTemp = [
   },
   {
     name : "CYPRUS",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 52.8,	
@@ -266,6 +271,7 @@ countryTemp = [
   },
   {
     name : "AUSTRALIA",
+    region : "asia",
     monthAvg : {
       "January" : {
         "avg" : 73.4,	
@@ -319,6 +325,7 @@ countryTemp = [
   },
   {
     name : "THE BAHAMAS",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 70.8,	
@@ -372,6 +379,7 @@ countryTemp = [
   },
   {
     name : "BRAZIL",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 78.1,	
@@ -425,6 +433,7 @@ countryTemp = [
   },
   {
     name : "MALTA",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 54.4,	
@@ -478,6 +487,7 @@ countryTemp = [
   },
   {
     name : "FRANCE",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 39.4,	
@@ -531,6 +541,7 @@ countryTemp = [
   },
   {
     name : "ARGENTINA",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 74.9,	
@@ -584,6 +595,7 @@ countryTemp = [
   },
   {
     name : "COSTA RICA",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 75.4,	
@@ -637,6 +649,7 @@ countryTemp = [
   },
   {
     name : "CROATIA",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 39,	
@@ -689,7 +702,8 @@ countryTemp = [
     },
   },
   {
-    name : "SOUTH",
+    name : "SOUTH AFRICA",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 71.3,	
@@ -743,6 +757,7 @@ countryTemp = [
   },
   {
     name : "URUGUAY",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 73.6,	
@@ -796,6 +811,7 @@ countryTemp = [
   },
   {
     name : "JAPAN",
+    region : "asia",
     monthAvg : {
       "January" : {
         "avg" : 39.1,	
@@ -849,6 +865,7 @@ countryTemp = [
   },
   {
     name : "UNITED STATES",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 31.9,	
@@ -902,6 +919,7 @@ countryTemp = [
   },
   {
     name : "ICELAND",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 29.2,	
@@ -955,6 +973,7 @@ countryTemp = [
   },
   {
     name : "SWITZERLAND",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 27.2,	
@@ -1008,6 +1027,7 @@ countryTemp = [
   },
   {
     name : "FIJI",
+    region : "asia",
     monthAvg : {
       "January" : {
         "avg" : 79.5,	
@@ -1061,6 +1081,7 @@ countryTemp = [
   },
   {
     name : "CHILE",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 62,	
@@ -1114,6 +1135,7 @@ countryTemp = [
   },
   {
     name : "TURKEY",
+    region : "eurpoe",
     monthAvg : {
       "January" : {
         "avg" : 36.1,	
@@ -1167,6 +1189,7 @@ countryTemp = [
   },
   {
     name : "JAMAICA",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 75.5,	
@@ -1220,6 +1243,7 @@ countryTemp = [
   },
   {
     name : "KENYA",
+    region : "europe",
     monthAvg : {
       "January" : {
         "avg" : 70.4,	
@@ -1273,6 +1297,7 @@ countryTemp = [
   },
   {
     name : "DOMINICAN REPUBLIC",
+    region : "america",
     monthAvg : {
       "January" : {
         "avg" : 73.5,	

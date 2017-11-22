@@ -39,6 +39,37 @@ body {
   outline: 0;
 }
 
+.filter {
+  position: absolute; 
+  top: 15%;
+  left: 8%;
+}
+
+.filter button {
+  display: block;
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  color: #4CC417;
+}
+
+#symbol {
+  padding-right: 4px;
+}
+
+p {
+  display: inline-block;
+}
+
+@media (max-width: 1000px) {
+  .filter {
+    left: 2%;
+  }
+}
+
+
 
 
 
